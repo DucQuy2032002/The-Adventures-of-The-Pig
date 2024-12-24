@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ee4ef30786dbc294ea648447baf34b4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletSpriteRender: {fileID: 6963997635155231847, guid: 92484730aea6aae40b9720eb62a663b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
