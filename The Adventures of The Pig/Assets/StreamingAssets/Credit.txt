@@ -1,0 +1,48 @@
+THE ADVENTURES OF THE PIG
+
+
+GAME DEVELOPED BY 
+
+PHAM DUC QUY
+
+PROGRAMMING & DESIGN
+
+PHAM DUC QUY
+
+MUSIC & SOUND EFFECTS
+
+- Pixabay (https://pixabay.com/)
+
+ART & ASSETS
+
+- Unity Asset Store
+
+- 2D Parallax Background Set by DANIL CHERNYAEV - Purchased from Unity Asset Store
+
+- Background Art: SlashDashGamesStudio (Itch.io) - Licensed under Creative Commons Attribution 4.0    
+
+- Other images sourced from Google (Only public domain or licensed content used)
+
+SPECIAL THANKS  
+
+PHAM XUAN HOANG (For testing and feedback)
+
+LEO (Inspiration)
+
+TOOLS & ENGINE 
+
+- Unity  
+
+- Cinemachine  
+
+- TextMeshPro  
+
+Thank you for playing!
+
+This is my first game, and I’ve put a lot of effort into developing it. I hope you have fun playing!
+
+If you enjoy it, feel free to leave a comment or review. Your feedback will be a great motivation for me to keep improving and creating more exciting levels!
+
+Once again, thank you so much <3 <3
+
+

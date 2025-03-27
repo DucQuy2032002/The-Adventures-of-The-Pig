@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 5cd8c0b33ea29e54dbdaaf09619d9c5a
+  - enabled: 1
+    path: Assets/Scenes/LevelMenu.unity
+    guid: f87b4807290142e4f8048ee42608b7bc
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: bd385ebd74a28ae4097214e4e6df8b14
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: ad56548f446c40a4897e36f4096e2963
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 1df4e07fa09078c46945d1a1bb44e7df
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 6e580c55063856a4893f69b8a4e5f1d7
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: df21ae723003ab34bbb1eefdcce2e3fc
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: b198f6ed0bb7d67499e74ddf492eb577
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 80b1c79fa560e9145ac15cab93c1ee15
+  - enabled: 1
+    path: Assets/Scenes/LevelBoss.unity
+    guid: a8cd5867306f5c646a84ecc1715ea3bd
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: b5a4783415ce59841902398fee2cbd5f
+  - enabled: 1
+    path: Assets/Scenes/HowtoPlay.unity
+    guid: 81f3d7f878177d84bb826d684d010b8f
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: c7d6aee34bc15b54ea3504d66a0f3e71
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 58fa6f07c84652b478f77f0bde80e36e
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 2426c1b2fafe8bc4f93dfb9427043f65
+  m_configObjects: {}

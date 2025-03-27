@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Music Slider
+  - MovingPlatform
+  - Enemy
+  - SpikeBallChainForward
+  - SpikeBallChainBack
+  - Item
+  - Gate
+  - Enemy Bullet
+  - DetectionZone
+  - Ground
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Ground
+  - Player Layer
+  - Laser Layer
+  - Ladder
+  - Enemy Layer
+  - Bullet
+  - Path
+  - DetectZone
+  - CheckPlayer
+  - SpikeHead
+  - Shield
+  - Vortex
+  - HoleZone
+  - Item
+  - Trampoline
+  - Heal
+  - spawnPoint
+  - EnergyBall
+  - StartPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
